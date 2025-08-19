@@ -13,9 +13,7 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated>
-      <config projectName="my_project" targetName="my_project" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -25,6 +23,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c56b8a64-6972-401c-a85f-fa6dc21b98e8" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,9 +81,9 @@
   }
 }</component>
   <component name="RunManager">
-    <configuration name="my_project" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="my_project" TARGET_NAME="my_project" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="my_project" RUN_TARGET_NAME="my_project">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
   </component>
@@ -95,7 +95,9 @@
       <option name="presentableId" value="Default" />
       <updated>1755581625583</updated>
       <workItem from="1755581626621" duration="145000" />
-      <workItem from="1755581795581" duration="2000" />
+      <workItem from="1755581795581" duration="238000" />
+      <workItem from="1755582042317" duration="4000" />
+      <workItem from="1755582069745" duration="9000" />
     </task>
     <servers />
   </component>
