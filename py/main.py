@@ -1,3 +1,4 @@
+print("hello")
 price=input()
 price=int(price)
 x=price+32
